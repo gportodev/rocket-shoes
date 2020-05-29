@@ -22,7 +22,13 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
 
 .editorconfig
 .eslintrc.js
 .prettierrc
+=======
+.eslintrc.js
+.prettierrc
+.editorconfig
+>>>>>>> dev
