@@ -30,7 +30,7 @@ export default function Cart() {
               />
             </td>
             <td>
-              <strong>Tenis muito massa berg doido</strong>
+              <strong>Tênis muito massa</strong>
               <span>R$ 129,90</span>
             </td>
             <td>
