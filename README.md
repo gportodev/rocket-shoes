@@ -8,4 +8,6 @@
 
 ![](src/pictures/rocket-shoes_Cart.png)  
 
-[![rocket shoes](src/pictures/rocket-shoes_Home.png)](https://youtu.be/yUDZ2zFZPnk)
+***
+
+[![rocket shoes](https://www.imagemhost.com.br/image/sEAtP)](https://youtu.be/yUDZ2zFZPnk)
