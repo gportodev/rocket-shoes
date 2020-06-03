@@ -2,9 +2,9 @@
 
 # Screenshot
 
-![](src/pictures/rocke-shoes.png)  
+![](src/pictures/rocket-shoes_Home.png)  
 
 ***
 
-![](src/pictures/shoes.png)  
+![](src/pictures/rocket-shoes_Cart.png)  
 
