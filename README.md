@@ -1,5 +1,7 @@
 # rocket-shoes
 
+Loja de tênis online 
+
 # Screenshot
 
 ![](src/pictures/rocket-shoes_Home.png)  
@@ -10,4 +12,4 @@
 
 ***
 
-[![](https://www.imagemhost.com.br/images/2020/06/03/Group-1.png)](https://youtu.be/oafv7Nxs-4o)
+[![](https://www.imagemhost.com.br/images/2020/06/03/Group-1.png)](https://youtu.be/C9janTGmszs)
