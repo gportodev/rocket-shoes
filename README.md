@@ -12,4 +12,4 @@ Loja de tênis online
 
 ***
 
-[![](https://www.imagemhost.com.br/images/2020/06/09/rs_youtubephoto.png)](https://youtu.be/C9janTGmszs)
+[![](https://www.imagemhost.com.br/images/2020/06/03/Group-1.png)](https://youtu.be/C9janTGmszs)
