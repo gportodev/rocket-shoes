@@ -12,4 +12,4 @@ Loja de tênis online
 
 ***
 
-[![](https://www.imagemhost.com.br/images/2020/06/03/Group-1.png)](https://youtu.be/C9janTGmszs)
+[![](src/pictures/rocket-shoes_youtubev2.png)](https://youtu.be/C9janTGmszs)
